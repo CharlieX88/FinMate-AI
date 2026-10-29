@@ -49,6 +49,3 @@ FinMate AI acts as a **24/7 Personal Financial Advisor**, using **Large Language
 - **Groq SDK:** Blazing fast AI inference.
 
 ---
-<div align="center">
-  <i>Built with ❤️ for Final Year Project</i>
-</div>

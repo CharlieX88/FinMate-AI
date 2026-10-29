@@ -4,7 +4,7 @@
 
 **An AI-powered financial ecosystem built with MERN Stack & Groq AI to help users manage loans, track budgets, improve credit scores, and learn personal finance.**
 
-🚀 **[Live Demo](https://fin-mate-9zq67nqkf-charlies-projects-82d7dbca.vercel.app/)** | ⚙️ **[Backend API](https://finmate-ai-z971.onrender.com)**
+🚀 **[Live Demo](https://fin-mate-ai-nine.vercel.app/)** | ⚙️ **[Backend API](https://finmate-ai-z971.onrender.com)**
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
